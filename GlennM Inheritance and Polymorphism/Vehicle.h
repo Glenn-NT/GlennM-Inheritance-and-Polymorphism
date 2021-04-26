@@ -32,6 +32,7 @@ public:
 	string getManufacturer();
 	void setYearMade(string);
 	string getYearMade();
+	void displayInfo();
 };
 #endif // !VEHICLE_H
 
